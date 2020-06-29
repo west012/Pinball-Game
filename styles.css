@@ -1,4 +1,12 @@
 body{
-    background-image: https://images-na.ssl-images-amazon.com/images/I/81eAGJbr59L._SL1200_.jpg;
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/81eAGJbr59L._SL1200_.jpg);
     background-color: black;
+}
+#myCanvas{
+    justify-content: center;
+    margin: 0px center;
+    display: flex;
+    background-color:slategrey;
+    border: 4px double yellow;
+    background-repeat: no-repeat;
 }
