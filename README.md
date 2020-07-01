@@ -1,9 +1,9 @@
 #Pinball Simulator w music
 ## My first attempt with object interaction
  * [X] Make Canvas
- * [] Create ball
- * [] Implement logic for gravity
- * [] Create bounds for ball 
+ * [X] Create ball
+ * [X] Implement logic for gravity
+ * [X] Create bounds for ball 
  * [] Make Ball launcher and ball interaction
  * [] Implement logic for rolling
  * [] Implement logic for sounds
